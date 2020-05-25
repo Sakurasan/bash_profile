@@ -26,7 +26,7 @@ alias gomodon="export GO111MODULE=on"
 export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
 
 alias cdgo="cd ~/Code/Go/src"
-alias cdcode="cd /Users/eva/Code"
+alias cdco="cd /Users/eva/Code"
 
 # oracle
 export ORACLE_HOME=/opt/oracle/instantclient
